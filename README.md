@@ -1,6 +1,6 @@
 
 <div align="center">
-  ![animal](https://user-images.githubusercontent.com/44516782/206909410-d7a114b3-f951-498a-83a2-a11831ccd932.gif)
+  ![cats-cat](https://user-images.githubusercontent.com/44516782/206909505-11db1dcc-8d76-4c6e-b78c-fed606d3c068.gif)
   <p>The abyss stares back.</p>
 </div>
 <!--
