@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media1.tenor.com/images/52d13e6274e30ee0fe98d1c20d39a341/tenor.gif?itemid=5586037" style="max-width: 683px; width: 40%; background-color: transparent;" alt="Doge Doge On Doge GIF - Doge DogeOnDoge Meme GIFs">
+  ![animal](https://user-images.githubusercontent.com/44516782/206909410-d7a114b3-f951-498a-83a2-a11831ccd932.gif)
   <p>The abyss stares back.</p>
 </div>
 <!--
