@@ -1,1 +1,1 @@
-![cats-cat](https://user-images.githubusercontent.com/44516782/206909535-46be172d-9eea-4ec7-aa55-f123eaec7626.gif)
+![animal](https://user-images.githubusercontent.com/44516782/206909570-8630fd52-e550-4d4e-8df9-c848c0085a3a.gif)
