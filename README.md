@@ -3,6 +3,4 @@
   <p>c8 c8 </p>
 </div>
 
-[![An image of @chenghsin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chenghsin)](https://holopin.io/@chenghsin)
-
 
